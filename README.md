@@ -7,6 +7,7 @@ Willkommen im **Arduino Ideen** Repository! Hier sammeln wir kreative, spannende
 | # | Projektname | Beschreibung | Schwierigkeit |
 |---|-------------|--------------|---------------|
 | 01 | [**Nervmacher v1.0**](./01_Nervmacher) | Ein versteckter Störsender, der in zufälligen Intervallen nervige Geräusche (Grillenzirpen, Piepen) und Vibrationen erzeugt. Perfekt als Prank! | Anfänger / Mittel |
+| 02 | [**Laser-Stolperdraht-Alarm v1.0**](./02_Laser_Stolperdraht) | Ein unsichtbarer Laserstrahl überwacht einen Durchgang. Wird er unterbrochen, löst sofort ein lauter Alarm mit Sirene und blinkender LED aus. | Anfänger |
 
 ---
 
